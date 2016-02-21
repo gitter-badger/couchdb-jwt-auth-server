@@ -1,5 +1,7 @@
 # CouchDB JWT Authentication Server
 
+[![Join the chat at https://gitter.im/BeneathTheInk/couchdb-jwt-auth-server](https://badges.gitter.im/BeneathTheInk/couchdb-jwt-auth-server.svg)](https://gitter.im/BeneathTheInk/couchdb-jwt-auth-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm](https://img.shields.io/npm/v/couchdb-jwt.svg)](https://www.npmjs.com/package/couchdb-jwt) [![David](https://img.shields.io/david/Beneaththeink/couchdb-jwt-auth-server.svg)](https://david-dm.org/Beneaththeink/couchdb-jwt-auth-server) [![Build Status](https://travis-ci.org/BeneathTheInk/uninvisible.svg?branch=master)](https://travis-ci.org/BeneathTheInk/uninvisible)
 
 This is an Express app and CLI tool that manages [JSON Web Tokens](https://jwt.io) for a CouchDB server. This acts as a small independent server for generating, renewing and invalidating JWTs that can be used with CouchDB.
